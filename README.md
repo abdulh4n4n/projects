@@ -1,2 +1,2 @@
 # projects
-smart farming my final year project.and other projects which i have created during my web dev journey
+Upwork website's clown which i was created during my web dev journey.
